@@ -28,7 +28,7 @@ class Rhino : public Node{
         virtual void update(){
             if (((AnimatedSprite*)getComponent("AnimatedSprite"))->getCurrentAnimation() != "hit" && stoppedRunning && 
                 (frog && ((frog->getPosition().y < getPosition().y && frog->getPosition().y > getPosition().y - 64) || 
-                    (getPosition().y < frog->getPosition().y && getPosition().y > frog->getPosition().y - 72))) {
+                    (getPosition().y < frog->getPosition().y && getPosition().y > frog->getPosition().y - 72)))) {
                 if (std::abs(frog->getPosition().x - getPosition().x) < 200){
                     ((AnimatedSprite*)getComponent("AnimatedSprite"))->setAnimation("run");
                     if (frog->getPosition().x < getPosition().x){
