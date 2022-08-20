@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/duke/Projects/SFMLGameEngine/example/build",
+  "command": "/usr/bin/g++ -I/home/duke/Projects/SFMLGameEngine/example/src -I/home/duke/Projects/SFMLGameEngine/example/hpp -g -o CMakeFiles/LittlePlatformer.dir/frog.cpp.o -c /home/duke/Projects/SFMLGameEngine/example/frog.cpp",
+  "file": "/home/duke/Projects/SFMLGameEngine/example/frog.cpp"
+},
+{
+  "directory": "/home/duke/Projects/SFMLGameEngine/example/build",
+  "command": "/usr/bin/g++ -I/home/duke/Projects/SFMLGameEngine/example/src -I/home/duke/Projects/SFMLGameEngine/example/hpp -g -o CMakeFiles/LittlePlatformer.dir/scenesCollection.cpp.o -c /home/duke/Projects/SFMLGameEngine/example/scenesCollection.cpp",
+  "file": "/home/duke/Projects/SFMLGameEngine/example/scenesCollection.cpp"
+}
+]

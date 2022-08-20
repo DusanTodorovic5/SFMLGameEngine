@@ -17,6 +17,8 @@ class Collision : public Component{
         bool getRigid();
         void hadCollision();
         void destroyed(Node*);
+
+        
     private:
         sf::Vector2f lastPos;
         sf::Vector2f offset;

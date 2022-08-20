@@ -1,0 +1,5 @@
+# ninja log v5
+793	934	1659868736446689795	LittlePlatformer	ab2364a055917d9c
+8	793	1659868736306689782	CMakeFiles/LittlePlatformer.dir/scenesCollection.cpp.o	6cd926f7caa3139b
+8	769	1659868736283356446	CMakeFiles/LittlePlatformer.dir/frog.cpp.o	99fb13b8e31c9782
+1	8	0	/home/duke/Projects/SFMLGameEngine/example/build/CMakeFiles/cmake.verify_globs	51663b810d8571d7

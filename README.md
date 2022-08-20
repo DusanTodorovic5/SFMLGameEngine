@@ -21,5 +21,5 @@ Currently, the engine can be used to create a fully functional 2D game including
 
 ## Example game
 
-An example game is a simple platformer where the player gets to play frog hero. The objective is to collect all fruits. There are 2 enemies, the passive bee, which doesn't like chasing the frog, so it waits for the frog to hit her, also, there is an aggressive rhino that will chase the frog in an attempt to hit it. Oh, there are traps too. 
+An example game is a simple platformer where the player gets to play frog ninja. The objective is to collect all fruits. There are 2 enemies, the passive bee, which doesn't like chasing the frog, so it waits for the frog to hit her, also, there is an aggressive rhino that will chase the frog in an attempt to hit it. Oh, there are traps too. 
 Example game shows how to make a game in this engine, it is very similar to Unity or Godot, but it has much less functionality and is always 2D, but hey, at least the build runs faster here :)
