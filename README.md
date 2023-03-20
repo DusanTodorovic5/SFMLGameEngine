@@ -1,5 +1,16 @@
 # Small but functional game engine created in C++ using SFML as a media library
 
+Will reformat a lot starting next month
+ 1. Adding comments so other can understand stuff to...Definitely that
+ 2. Rendering performance improvements
+ 3. Better collisions
+ 4. Revisiting the animations and checking if that can be improved to
+ 5. Adding sound
+ 6. Some kind of networking might be good to have
+ 7. More UI elements
+ 
+The point is to have it ready for hackatons, it will be small 2D engine but the workflow should be more than good for any hackaton
+
 ## Features
 
  - A component system like Unity. Current components are:
